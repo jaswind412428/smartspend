@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <defs>
+    <linearGradient id="uiGradient" x1="0" y1="0" x2="256" y2="256" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8DA399" />
+      <stop offset="100%" stop-color="#A3AD91" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background matching the main UI gradient -->
+  <rect width="256" height="256" rx="64" fill="url(#uiGradient)"/>
+  
+  <!-- Original Lucide Wallet icon paths, centered and scaled -->
+  <g transform="translate(48, 48) scale(6.666)">
+    <path d="M21 12V7H5a2 2 0 0 1 0-4h14v4" stroke="#DCFCE7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M3 5v14a2 2 0 0 0 2 2h16v-5" stroke="#DCFCE7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 12a2 2 0 0 0 0 4h4v-4Z" stroke="#DCFCE7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

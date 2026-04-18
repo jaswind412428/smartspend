@@ -1,0 +1,20 @@
+{
+  "short_name": "smartspend",
+  "name": "smartspend-個人理財管家",
+  "icons": [
+    {
+      "src": "/icon.svg", 
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
